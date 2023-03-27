@@ -1,6 +1,6 @@
 # Azure End to End Project 
 
 
-## Architecture Diagram
+## Architecture
 
 ![Project Architecture](./img/Project_Archiecture.png)
